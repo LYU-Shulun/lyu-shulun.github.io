@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aurora and Boy</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Aurora and Boy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Sep 2020 11:48:24 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>If I Were 19</title>
+      <link>http://example.org/posts/if-i-were-19/</link>
+      <pubDate>Mon, 07 Sep 2020 11:48:24 +0800</pubDate>
+      
+      <guid>http://example.org/posts/if-i-were-19/</guid>
+      <description>In 2014-09, I went to college in Nanjing city of Jiangsu province.
+After I graduated from college when it was 2018-06, I choosed to work in the third-party logistic, which is not suitable for me.</description>
+    </item>
+    
+  </channel>
+</rss>
